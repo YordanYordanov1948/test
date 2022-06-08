@@ -1,3 +1,5 @@
 <?php 
 
-echo 'Hello mom';
+echo 'Hello world';
+
+echo "\n".(1 + 1);
